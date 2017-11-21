@@ -1,0 +1,8 @@
+{
+	"filters": [{
+	"filterField": "peg$contentClassification",
+	"filter" : "censoring",
+	"levelField": "guid",
+	"level" : ["censored","uncensored"]
+	}]
+}
